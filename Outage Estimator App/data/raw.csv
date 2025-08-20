@@ -1,0 +1,101 @@
+Timestamp,Location,WeatherCondition,HistoricalOutageDuration
+2025-07-15 03:00:00,Los Angeles,Lightning,3
+2025-07-14 11:00:00,New York,Fog,5
+2025-07-30 16:00:00,New York,Thunderstorm,4
+2025-07-06 01:00:00,Detroit,Lightning,4
+2025-07-26 21:00:00,Phoenix,Overload,5
+2025-07-23 03:00:00,Seattle,Hurricane,8
+2025-07-10 20:00:00,Boston,Lightning,5
+2025-07-21 03:00:00,New York,Tree Fall,8
+2025-07-21 19:00:00,Las Vegas,Heavy Rain,3
+2025-07-23 21:00:00,Los Angeles,Hurricane,7
+2025-07-16 20:00:00,San Francisco,Thunderstorm,7
+2025-07-13 06:00:00,Seattle,Fog,4
+2025-07-18 17:00:00,Dallas,Tree Fall,7
+2025-07-04 18:00:00,Seattle,Snowstorm,6
+2025-07-13 03:00:00,Los Angeles,Lightning,5
+2025-07-16 05:00:00,Dallas,Thunderstorm,5
+2025-07-10 11:00:00,Boston,Thunderstorm,5
+2025-07-17 16:00:00,Denver,Snowstorm,6
+2025-07-17 02:00:00,Los Angeles,Heatwave,2
+2025-07-06 05:00:00,Miami,Equipment Failure,12
+2025-07-13 20:00:00,Detroit,Overload,5
+2025-07-03 23:00:00,Phoenix,Monsoon,12
+2025-07-14 22:00:00,Chicago,Monsoon,12
+2025-07-27 20:00:00,Miami,Equipment Failure,10
+2025-07-14 05:00:00,Las Vegas,Heatwave,2
+2025-07-01 19:00:00,Phoenix,Tree Fall,7
+2025-07-14 02:00:00,Atlanta,Heatwave,5
+2025-07-11 12:00:00,San Francisco,Thunderstorm,6
+2025-07-16 02:00:00,New York,Equipment Failure,8
+2025-07-04 22:00:00,Dallas,Overload,4
+2025-07-04 21:00:00,Atlanta,Equipment Failure,10
+2025-07-13 17:00:00,Miami,Fog,5
+2025-07-27 10:00:00,Dallas,Thunderstorm,3
+2025-07-07 08:00:00,San Francisco,Heavy Rain,5
+2025-07-12 19:00:00,Houston,Equipment Failure,10
+2025-07-24 12:00:00,Phoenix,Hurricane,6
+2025-07-09 01:00:00,Phoenix,Overload,4
+2025-07-26 16:00:00,Denver,Heatwave,4
+2025-07-20 06:00:00,Philadelphia,Tree Fall,6
+2025-07-13 15:00:00,Detroit,Lightning,7
+2025-07-18 22:00:00,Denver,Tree Fall,5
+2025-07-18 19:00:00,Denver,Hurricane,11
+2025-07-16 11:00:00,Las Vegas,Overload,3
+2025-07-19 16:00:00,Dallas,Thunderstorm,5
+2025-07-02 20:00:00,Miami,Heatwave,4
+2025-07-11 16:00:00,Boston,Thunderstorm,3
+2025-07-12 11:00:00,Atlanta,Fog,2
+2025-07-29 14:00:00,New York,Snowstorm,11
+2025-07-21 00:00:00,Denver,Overload,4
+2025-07-03 13:00:00,Atlanta,Heavy Rain,4
+2025-07-15 06:00:00,Miami,Equipment Failure,8
+2025-07-24 04:00:00,Atlanta,Heatwave,4
+2025-07-25 10:00:00,Chicago,Tree Fall,7
+2025-07-24 17:00:00,Dallas,Snowstorm,11
+2025-07-21 07:00:00,Seattle,Fog,4
+2025-07-22 00:00:00,Las Vegas,Lightning,3
+2025-07-04 21:00:00,Los Angeles,Thunderstorm,3
+2025-07-30 11:00:00,Denver,Equipment Failure,11
+2025-07-08 17:00:00,Detroit,Heatwave,4
+2025-07-05 01:00:00,Phoenix,Tree Fall,5
+2025-07-23 16:00:00,Philadelphia,Overload,4
+2025-07-25 11:00:00,Philadelphia,Snowstorm,6
+2025-07-08 16:00:00,Seattle,Monsoon,7
+2025-07-05 16:00:00,Seattle,Hurricane,7
+2025-07-04 00:00:00,Denver,Heavy Rain,6
+2025-07-18 02:00:00,Boston,Lightning,5
+2025-07-10 23:00:00,Philadelphia,Heatwave,2
+2025-07-13 21:00:00,Seattle,Fog,5
+2025-07-08 01:00:00,Los Angeles,Heatwave,3
+2025-07-20 03:00:00,San Francisco,Heatwave,3
+2025-07-23 15:00:00,Las Vegas,Monsoon,8
+2025-07-03 15:00:00,Los Angeles,Monsoon,10
+2025-07-28 18:00:00,New York,Monsoon,8
+2025-07-25 10:00:00,Las Vegas,Thunderstorm,6
+2025-07-24 21:00:00,New York,Overload,5
+2025-07-05 20:00:00,Miami,Hurricane,11
+2025-07-23 10:00:00,Las Vegas,Overload,3
+2025-07-26 06:00:00,Philadelphia,Overload,4
+2025-07-03 10:00:00,Houston,Snowstorm,8
+2025-07-28 13:00:00,Miami,Heatwave,5
+2025-07-19 15:00:00,Seattle,Overload,5
+2025-07-30 00:00:00,Phoenix,Heavy Rain,7
+2025-07-21 08:00:00,Dallas,Overload,3
+2025-07-03 17:00:00,Atlanta,Monsoon,8
+2025-07-05 15:00:00,Houston,Snowstorm,7
+2025-07-10 05:00:00,Miami,Lightning,6
+2025-07-22 09:00:00,New York,Thunderstorm,6
+2025-07-28 19:00:00,Phoenix,Overload,4
+2025-07-04 22:00:00,Philadelphia,Monsoon,6
+2025-07-27 16:00:00,Chicago,Tree Fall,6
+2025-07-15 18:00:00,San Francisco,Equipment Failure,12
+2025-07-01 16:00:00,Seattle,Equipment Failure,11
+2025-07-19 02:00:00,Chicago,Monsoon,6
+2025-07-09 07:00:00,Chicago,Thunderstorm,3
+2025-07-16 03:00:00,Atlanta,Equipment Failure,12
+2025-07-14 04:00:00,Detroit,Snowstorm,12
+2025-07-04 13:00:00,San Francisco,Heavy Rain,3
+2025-07-12 21:00:00,Las Vegas,Equipment Failure,11
+2025-07-20 05:00:00,Denver,Lightning,6
+2025-07-10 02:00:00,San Francisco,Thunderstorm,4

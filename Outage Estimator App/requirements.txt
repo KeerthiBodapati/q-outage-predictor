@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+boto3
+pyarrow
+streamlit
+matplotlib
+python-dateutil
